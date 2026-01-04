@@ -1,0 +1,5 @@
+{
+  "name": "Economeester: Vraag & Aanbod",
+  "description": "Een interactieve economie game-engine die leerlingen door 27 leerdoelen over vraag en aanbod leidt met adaptieve vragen gegenereerd door AI.",
+  "requestFramePermissions": []
+}
